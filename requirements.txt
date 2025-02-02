@@ -1,0 +1,8 @@
+requests
+logging
+web3
+eth-account
+asyncio
+colorlog
+tabulate
+colorama
