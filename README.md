@@ -6,7 +6,7 @@
 ### Prerequisites  
 
 1. **Create an Account on InitVerse**  
-   - Visit [InitVerse Candy](https://candy.inichain.com/) and connect your wallet.  
+   - Visit [InitVerse Candy]([https://candy.inichain.com/](https://candy.inichain.com?invite=0x064Af2B49111642ED5AaC9B0Ea655f056AB03d7B) and connect your wallet.  
    - Link your social accounts and complete the "Start Here" task.  
    - Join the [miner pool](https://inichain.gitbook.io/initverseinichain/inichain/mining-mainnet) with the operating system of your choice (Windows/Linux).  
    - Acquire INI tokens by mining or receiving them from someone.  
